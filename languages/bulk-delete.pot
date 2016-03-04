@@ -1,0 +1,2285 @@
+# Copyright (C) 2015 Bulk Delete
+# This file is distributed under the same license as the Bulk Delete package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Bulk Delete 5.4.2\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/bulk-delete\n"
+"POT-Creation-Date: 2015-03-03 16:01:26+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2015-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: bulk-delete.php:172 bulk-delete.php:184
+msgid "Cheatin&#8217; huh?"
+msgstr ""
+
+#: bulk-delete.php:269
+msgid "Bulk WP"
+msgstr ""
+
+#: bulk-delete.php:271 bulk-delete.php:483 include/ui/admin-ui.php:52
+msgid "Bulk Delete Posts"
+msgstr ""
+
+#: bulk-delete.php:272 bulk-delete.php:535
+msgid "Bulk Delete Pages"
+msgstr ""
+
+#: bulk-delete.php:273 bulk-delete.php:586 include/ui/admin-ui.php:49
+msgid "Bulk Delete Users"
+msgstr ""
+
+#: bulk-delete.php:293 bulk-delete.php:647
+msgid "Bulk Delete Schedules"
+msgstr ""
+
+#: bulk-delete.php:293
+msgid "Scheduled Jobs"
+msgstr ""
+
+#: bulk-delete.php:294 include/license/class-bd-license.php:32
+msgid "Addon Licenses"
+msgstr ""
+
+#: bulk-delete.php:295
+msgid "Bulk Delete System Info"
+msgstr ""
+
+#: bulk-delete.php:295
+msgid "System Info"
+msgstr ""
+
+#: bulk-delete.php:347
+msgid "By Post Status"
+msgstr ""
+
+#: bulk-delete.php:348
+msgid "By Category"
+msgstr ""
+
+#: bulk-delete.php:349
+msgid "By Tag"
+msgstr ""
+
+#: bulk-delete.php:350
+msgid "By Custom Taxonomy"
+msgstr ""
+
+#: bulk-delete.php:351
+msgid "By Custom Post Types"
+msgstr ""
+
+#: bulk-delete.php:352
+msgid "By URL"
+msgstr ""
+
+#: bulk-delete.php:353
+msgid "By Post Revision"
+msgstr ""
+
+#: bulk-delete.php:354
+msgid "By Custom Field"
+msgstr ""
+
+#: bulk-delete.php:355
+msgid "By Title"
+msgstr ""
+
+#: bulk-delete.php:356
+msgid "By Duplicate Title"
+msgstr ""
+
+#: bulk-delete.php:357 bulk-delete.php:431
+msgid "By User Role"
+msgstr ""
+
+#: bulk-delete.php:358 tmp_addon/bulk-delete-from-trash.php:151
+msgid "Posts in Trash"
+msgstr ""
+
+#: bulk-delete.php:396
+msgid "By Page status"
+msgstr ""
+
+#: bulk-delete.php:397
+msgid "Pages in Trash"
+msgstr ""
+
+#: bulk-delete.php:499 include/misc/class-bulk-delete-misc.php:113
+msgid "WARNING: Posts deleted once cannot be retrieved back. Use with caution."
+msgstr ""
+
+#: bulk-delete.php:551
+msgid "WARNING: Pages deleted once cannot be retrieved back. Use with caution."
+msgstr ""
+
+#: bulk-delete.php:602
+msgid "WARNING: Users deleted once cannot be retrieved back. Use with caution."
+msgstr ""
+
+#: include/cron/class-cron-list-table.php:33
+msgid ""
+"This is the list of jobs that are currently scheduled for auto deleting "
+"posts in Bulk Delete Plugin."
+msgstr ""
+
+#: include/cron/class-cron-list-table.php:41
+msgid "Note: "
+msgstr ""
+
+#: include/cron/class-cron-list-table.php:43
+msgid ""
+"Scheduling auto post or user deletion is available only when you buy pro "
+"addons."
+msgstr ""
+
+#: include/cron/class-cron-list-table.php:57
+msgid "Next Due"
+msgstr ""
+
+#: include/cron/class-cron-list-table.php:58
+#: include/meta/class-bulk-delete-comment-meta.php:150
+#: include/meta/class-bulk-delete-post-meta.php:150
+#: include/meta/class-bulk-delete-user-meta.php:130
+#: include/misc/class-bulk-delete-jetpack-contact-form-messages.php:141
+#: include/pages/class-bulk-delete-pages.php:111
+#: include/posts/class-bulk-delete-posts.php:120
+#: include/posts/class-bulk-delete-posts.php:414
+#: include/posts/class-bulk-delete-posts.php:637
+#: include/posts/class-bulk-delete-posts.php:914
+#: include/posts/class-bulk-delete-posts.php:1163
+#: include/users/class-bulk-delete-users.php:90
+#: tmp_addon/bulk-delete-attachments.php:300
+#: tmp_addon/bulk-delete-posts-by-attachment.php:209
+#: tmp_addon/bulk-delete-posts-by-content.php:227
+#: tmp_addon/bulk-delete-posts-by-custom-field.php:237
+#: tmp_addon/bulk-delete-posts-by-duplicate-title.php:179
+#: tmp_addon/bulk-delete-posts-by-title.php:183
+#: tmp_addon/bulk-delete-posts-by-user-role.php:161
+#: tmp_addon/bulk-delete-posts-by-user.php:205
+msgid "Schedule"
+msgstr ""
+
+#: include/cron/class-cron-list-table.php:59
+msgid "Type"
+msgstr ""
+
+#: include/cron/class-cron-list-table.php:60
+msgid "Options"
+msgstr ""
+
+#: include/cron/class-cron-list-table.php:119
+#: include/license/class-license-list-table.php:93
+msgid "Delete"
+msgstr ""
+
+#: include/cron/class-cron-list-table.php:160
+msgid "You have not scheduled any bulk delete jobs."
+msgstr ""
+
+#: include/license/class-bd-license-handler.php:141
+msgid "Addon License Key"
+msgstr ""
+
+#: include/license/class-bd-license-handler.php:161
+msgid "Enter license key"
+msgstr ""
+
+#: include/license/class-bd-license.php:65
+msgid "Activate License"
+msgstr ""
+
+#: include/license/class-bd-license.php:191
+msgid "The license key for \"%s\" addon was successfully deactivated"
+msgstr ""
+
+#: include/license/class-bd-license.php:196
+msgid ""
+"There was some problem while trying to deactivate license key for \"%s\" "
+"addon. Kindly try again"
+msgstr ""
+
+#: include/license/class-bd-license.php:221
+msgid "The license key was successfully deleted"
+msgstr ""
+
+#: include/license/class-bd-license.php:265
+msgid ""
+"There was some problem in contacting our store to activate the license key "
+"for \"%s\" addon"
+msgstr ""
+
+#: include/license/class-bd-license.php:275
+msgid ""
+"The license key for \"%s\" addon was successfully activated. The addon will "
+"get updates automatically till the license key is valid."
+msgstr ""
+
+#: include/license/class-bd-license.php:283
+msgid ""
+"The license key for \"%s\" addon doesn't have any more activations left. "
+"Kindly buy a new license."
+msgstr ""
+
+#: include/license/class-bd-license.php:287
+msgid "The license key for \"%s\" addon is revoked. Kindly buy a new license."
+msgstr ""
+
+#: include/license/class-bd-license.php:291
+msgid "The license key for \"%s\" addon has expired. Kindly buy a new license."
+msgstr ""
+
+#: include/license/class-bd-license.php:295
+msgid "The license key for \"%s\" addon is invalid"
+msgstr ""
+
+#: include/license/class-bd-license.php:357
+msgid ""
+"The following are the list of pro addons that are currently available for "
+"purchase."
+msgstr ""
+
+#: include/license/class-bd-license.php:363
+msgid "Delete posts by custom field"
+msgstr ""
+
+#: include/license/class-bd-license.php:364
+msgid "Adds the ability to delete posts based on custom fields"
+msgstr ""
+
+#: include/license/class-bd-license.php:365
+#: include/license/class-bd-license.php:371
+#: include/license/class-bd-license.php:377
+#: include/license/class-bd-license.php:383
+#: include/license/class-bd-license.php:389
+#: include/license/class-bd-license.php:395
+#: include/license/class-bd-license.php:401
+#: include/license/class-bd-license.php:407
+#: include/license/class-bd-license.php:413
+#: include/license/class-bd-license.php:419
+#: include/license/class-bd-license.php:425
+#: include/license/class-bd-license.php:431
+#: include/license/class-bd-license.php:437
+#: include/license/class-bd-license.php:443
+#: include/license/class-bd-license.php:449
+#: include/license/class-bd-license.php:455
+#: include/license/class-bd-license.php:461
+#: include/license/class-bd-license.php:467
+msgid "More Info"
+msgstr ""
+
+#: include/license/class-bd-license.php:369
+msgid "Delete posts by title"
+msgstr ""
+
+#: include/license/class-bd-license.php:370
+msgid "Adds the ability to delete posts based on title"
+msgstr ""
+
+#: include/license/class-bd-license.php:375
+msgid "Delete posts by duplicate title"
+msgstr ""
+
+#: include/license/class-bd-license.php:376
+msgid "Adds the ability to delete posts based on duplicate title"
+msgstr ""
+
+#: include/license/class-bd-license.php:381
+msgid "Delete posts by attachment"
+msgstr ""
+
+#: include/license/class-bd-license.php:382
+msgid ""
+"Adds the ability to delete posts based on whether it contains attachment or "
+"not"
+msgstr ""
+
+#: include/license/class-bd-license.php:387
+msgid "Delete posts by user role"
+msgstr ""
+
+#: include/license/class-bd-license.php:388
+msgid "Adds the ability to delete posts based on user role"
+msgstr ""
+
+#: include/license/class-bd-license.php:393
+msgid "Delete from trash"
+msgstr ""
+
+#: include/license/class-bd-license.php:394
+msgid "Adds the ability to delete posts and pages from trash"
+msgstr ""
+
+#: include/license/class-bd-license.php:399
+msgid "Scheduler Email"
+msgstr ""
+
+#: include/license/class-bd-license.php:400
+msgid "Sends an email every time a Bulk WP scheduler runs"
+msgstr ""
+
+#: include/license/class-bd-license.php:405
+msgid "Scheduler for deleting Posts by Category"
+msgstr ""
+
+#: include/license/class-bd-license.php:406
+msgid "Adds the ability to schedule auto delete of posts based on category"
+msgstr ""
+
+#: include/license/class-bd-license.php:411
+msgid "Scheduler for deleting Posts by Tag"
+msgstr ""
+
+#: include/license/class-bd-license.php:412
+msgid "Adds the ability to schedule auto delete of posts based on tag"
+msgstr ""
+
+#: include/license/class-bd-license.php:417
+msgid "Scheduler for deleting Posts by Custom Taxonomy"
+msgstr ""
+
+#: include/license/class-bd-license.php:418
+msgid ""
+"Adds the ability to schedule auto delete of posts based on custom taxonomy"
+msgstr ""
+
+#: include/license/class-bd-license.php:423
+msgid "Scheduler for deleting Posts by Custom Post Type"
+msgstr ""
+
+#: include/license/class-bd-license.php:424
+msgid ""
+"Adds the ability to schedule auto delete of posts based on custom post type"
+msgstr ""
+
+#: include/license/class-bd-license.php:429
+msgid "Scheduler for deleting Posts by Post Status"
+msgstr ""
+
+#: include/license/class-bd-license.php:430
+msgid ""
+"Adds the ability to schedule auto delete of posts based on post status like "
+"drafts, pending posts, scheduled posts etc."
+msgstr ""
+
+#: include/license/class-bd-license.php:435
+msgid "Scheduler for deleting Pages by Status"
+msgstr ""
+
+#: include/license/class-bd-license.php:436
+msgid "Adds the ability to schedule auto delete pages based on status"
+msgstr ""
+
+#: include/license/class-bd-license.php:441
+msgid "Scheduler for deleting Users by User Role"
+msgstr ""
+
+#: include/license/class-bd-license.php:442
+msgid "Adds the ability to schedule auto delete of users based on user role"
+msgstr ""
+
+#: include/license/class-bd-license.php:447
+msgid "Delete Post Meta Fields"
+msgstr ""
+
+#: include/license/class-bd-license.php:448
+msgid ""
+"Adds the ability to delete post meta fields based on value and to schedule "
+"automatic deletion"
+msgstr ""
+
+#: include/license/class-bd-license.php:453
+msgid "Delete Comment Meta Fields"
+msgstr ""
+
+#: include/license/class-bd-license.php:454
+msgid ""
+"Adds the ability to delete comment meta fields based on value and to "
+"schedule automatic deletion"
+msgstr ""
+
+#: include/license/class-bd-license.php:459
+msgid "Delete User Meta Fields"
+msgstr ""
+
+#: include/license/class-bd-license.php:460
+msgid ""
+"Adds the ability to delete user meta fields based on value and to schedule "
+"automatic deletion"
+msgstr ""
+
+#: include/license/class-bd-license.php:465
+msgid "Delete Jetpack Contact Form Messages"
+msgstr ""
+
+#: include/license/class-bd-license.php:466
+msgid ""
+"Adds the ability to delete Jetpack Contact Form Messages based on filters "
+"and to schedule automatic deletion"
+msgstr ""
+
+#: include/license/class-license-list-table.php:37
+msgid ""
+"This is the list of addon license that are currently registered with the "
+"plugin."
+msgstr ""
+
+#: include/license/class-license-list-table.php:50
+msgid "Addon Name"
+msgstr ""
+
+#: include/license/class-license-list-table.php:51
+msgid "License Code"
+msgstr ""
+
+#: include/license/class-license-list-table.php:52
+msgid "Validity"
+msgstr ""
+
+#: include/license/class-license-list-table.php:53
+msgid "Expires"
+msgstr ""
+
+#: include/license/class-license-list-table.php:97
+msgid "Deactivate"
+msgstr ""
+
+#: include/license/class-license-list-table.php:158
+msgid "N/A"
+msgstr ""
+
+#: include/license/class-license-list-table.php:168
+msgid "You don't have any valid addon license yet."
+msgstr ""
+
+#: include/meta/class-bulk-delete-comment-meta.php:38
+msgid "Bulk Delete Comment Meta"
+msgstr ""
+
+#: include/meta/class-bulk-delete-comment-meta.php:53
+#: include/meta/class-bulk-delete-post-meta.php:53
+#: include/meta/class-bulk-delete-user-meta.php:53
+#: include/misc/class-bulk-delete-jetpack-contact-form-messages.php:45
+#: include/pages/class-bulk-delete-pages.php:23
+#: include/pages/class-bulk-delete-pages.php:264
+#: include/posts/class-bulk-delete-posts.php:18
+#: include/posts/class-bulk-delete-posts.php:301
+#: include/posts/class-bulk-delete-posts.php:554
+#: include/posts/class-bulk-delete-posts.php:772
+#: include/posts/class-bulk-delete-posts.php:1069
+#: include/posts/class-bulk-delete-posts.php:1311
+#: include/posts/class-bulk-delete-posts.php:1395
+#: include/posts/class-bulk-delete-posts.php:1478
+#: include/posts/class-bulk-delete-posts.php:1507
+#: include/posts/class-bulk-delete-posts.php:1537
+#: include/posts/class-bulk-delete-posts.php:1566
+#: include/posts/class-bulk-delete-posts.php:1593
+#: include/users/class-bulk-delete-users.php:18
+msgid ""
+"This section just got enabled. Kindly <a href = \"%1$s\">refresh</a> the "
+"page to fully enable it."
+msgstr ""
+
+#: include/meta/class-bulk-delete-comment-meta.php:68
+msgid "Select the post type whose comment meta fields you want to delete"
+msgstr ""
+
+#: include/meta/class-bulk-delete-comment-meta.php:84
+msgid "Choose your comment meta field settings"
+msgstr ""
+
+#: include/meta/class-bulk-delete-comment-meta.php:89
+msgid "Delete based on comment meta key name only"
+msgstr ""
+
+#: include/meta/class-bulk-delete-comment-meta.php:96
+msgid "Delete based on comment meta key name and value"
+msgstr ""
+
+#: include/meta/class-bulk-delete-comment-meta.php:98
+#: include/meta/class-bulk-delete-comment-meta.php:164
+#: include/meta/class-bulk-delete-post-meta.php:98
+#: include/meta/class-bulk-delete-post-meta.php:164
+#: include/meta/class-bulk-delete-user-meta.php:90
+#: include/meta/class-bulk-delete-user-meta.php:144
+#: include/misc/class-bulk-delete-jetpack-contact-form-messages.php:80
+#: include/misc/class-bulk-delete-jetpack-contact-form-messages.php:154
+#: include/pages/class-bulk-delete-pages.php:124
+#: include/posts/class-bulk-delete-posts.php:133
+#: include/posts/class-bulk-delete-posts.php:427
+#: include/posts/class-bulk-delete-posts.php:650
+#: include/posts/class-bulk-delete-posts.php:927
+#: include/posts/class-bulk-delete-posts.php:1176
+#: include/users/class-bulk-delete-users.php:103
+#: tmp_addon/bulk-delete-attachments.php:313
+#: tmp_addon/bulk-delete-posts-by-attachment.php:222
+#: tmp_addon/bulk-delete-posts-by-content.php:240
+#: tmp_addon/bulk-delete-posts-by-custom-field.php:250
+#: tmp_addon/bulk-delete-posts-by-duplicate-title.php:192
+#: tmp_addon/bulk-delete-posts-by-title.php:196
+#: tmp_addon/bulk-delete-posts-by-user-role.php:174
+#: tmp_addon/bulk-delete-posts-by-user.php:218
+msgid "Only available in Pro Addon"
+msgstr ""
+
+#: include/meta/class-bulk-delete-comment-meta.php:105
+msgid "Comment Meta Key "
+msgstr ""
+
+#: include/meta/class-bulk-delete-comment-meta.php:106
+#: include/meta/class-bulk-delete-post-meta.php:106
+#: include/meta/class-bulk-delete-user-meta.php:98
+msgid "Meta Key"
+msgstr ""
+
+#: include/meta/class-bulk-delete-comment-meta.php:122
+#: include/meta/class-bulk-delete-post-meta.php:122
+#: include/meta/class-bulk-delete-user-meta.php:114
+#: include/misc/class-bulk-delete-jetpack-contact-form-messages.php:127
+msgid "Choose your deletion options"
+msgstr ""
+
+#: include/meta/class-bulk-delete-comment-meta.php:129
+msgid "Only restrict to comments which are "
+msgstr ""
+
+#: include/meta/class-bulk-delete-comment-meta.php:131
+#: include/meta/class-bulk-delete-post-meta.php:131
+#: include/misc/class-bulk-delete-jetpack-contact-form-messages.php:107
+#: include/pages/class-bulk-delete-pages.php:85
+#: include/posts/class-bulk-delete-posts.php:94
+#: include/posts/class-bulk-delete-posts.php:379
+#: include/posts/class-bulk-delete-posts.php:602
+#: include/posts/class-bulk-delete-posts.php:879
+#: include/posts/class-bulk-delete-posts.php:1135
+#: tmp_addon/bulk-delete-attachments.php:272
+#: tmp_addon/bulk-delete-posts-by-attachment.php:174
+#: tmp_addon/bulk-delete-posts-by-content.php:194
+#: tmp_addon/bulk-delete-posts-by-custom-field.php:202
+#: tmp_addon/bulk-delete-posts-by-title.php:148
+#: tmp_addon/bulk-delete-posts-by-user-role.php:134
+#: tmp_addon/bulk-delete-posts-by-user.php:178
+msgid "older than"
+msgstr ""
+
+#: include/meta/class-bulk-delete-comment-meta.php:132
+msgid "commented within last"
+msgstr ""
+
+#: include/meta/class-bulk-delete-comment-meta.php:134
+#: include/meta/class-bulk-delete-post-meta.php:134
+#: include/misc/class-bulk-delete-jetpack-contact-form-messages.php:110
+#: include/pages/class-bulk-delete-pages.php:88
+#: include/posts/class-bulk-delete-posts.php:97
+#: include/posts/class-bulk-delete-posts.php:382
+#: include/posts/class-bulk-delete-posts.php:605
+#: include/posts/class-bulk-delete-posts.php:882
+#: include/posts/class-bulk-delete-posts.php:1138
+#: include/users/class-bulk-delete-users.php:57
+#: tmp_addon/bulk-delete-attachments.php:275
+#: tmp_addon/bulk-delete-from-trash.php:348
+#: tmp_addon/bulk-delete-posts-by-attachment.php:177
+#: tmp_addon/bulk-delete-posts-by-content.php:197
+#: tmp_addon/bulk-delete-posts-by-custom-field.php:205
+#: tmp_addon/bulk-delete-posts-by-title.php:151
+#: tmp_addon/bulk-delete-posts-by-user-role.php:137
+#: tmp_addon/bulk-delete-posts-by-user.php:181
+msgid "days"
+msgstr ""
+
+#: include/meta/class-bulk-delete-comment-meta.php:141
+msgid "Only delete comment meta field from first "
+msgstr ""
+
+#: include/meta/class-bulk-delete-comment-meta.php:142
+msgid "comments."
+msgstr ""
+
+#: include/meta/class-bulk-delete-comment-meta.php:143
+#: include/meta/class-bulk-delete-post-meta.php:143
+#: include/misc/class-bulk-delete-jetpack-contact-form-messages.php:121
+#: include/posts/class-bulk-delete-posts.php:113
+#: include/posts/class-bulk-delete-posts.php:407
+#: include/posts/class-bulk-delete-posts.php:630
+#: include/posts/class-bulk-delete-posts.php:907
+#: include/posts/class-bulk-delete-posts.php:1156
+#: tmp_addon/bulk-delete-posts-by-attachment.php:202
+#: tmp_addon/bulk-delete-posts-by-content.php:220
+#: tmp_addon/bulk-delete-posts-by-custom-field.php:230
+#: tmp_addon/bulk-delete-posts-by-duplicate-title.php:172
+#: tmp_addon/bulk-delete-posts-by-title.php:176
+msgid ""
+"Use this option if there are more than 1000 posts and the script timesout."
+msgstr ""
+
+#: include/meta/class-bulk-delete-comment-meta.php:149
+#: include/meta/class-bulk-delete-post-meta.php:149
+#: include/meta/class-bulk-delete-user-meta.php:129
+#: include/misc/class-bulk-delete-jetpack-contact-form-messages.php:140
+#: include/pages/class-bulk-delete-pages.php:110
+#: include/posts/class-bulk-delete-posts.php:119
+#: include/posts/class-bulk-delete-posts.php:413
+#: include/posts/class-bulk-delete-posts.php:636
+#: include/posts/class-bulk-delete-posts.php:913
+#: include/posts/class-bulk-delete-posts.php:1162
+#: include/users/class-bulk-delete-users.php:89
+#: tmp_addon/bulk-delete-attachments.php:299
+#: tmp_addon/bulk-delete-posts-by-attachment.php:208
+#: tmp_addon/bulk-delete-posts-by-content.php:226
+#: tmp_addon/bulk-delete-posts-by-custom-field.php:236
+#: tmp_addon/bulk-delete-posts-by-duplicate-title.php:178
+#: tmp_addon/bulk-delete-posts-by-title.php:182
+#: tmp_addon/bulk-delete-posts-by-user-role.php:160
+#: tmp_addon/bulk-delete-posts-by-user.php:204
+msgid "Delete now"
+msgstr ""
+
+#: include/meta/class-bulk-delete-comment-meta.php:151
+#: include/meta/class-bulk-delete-post-meta.php:151
+#: include/meta/class-bulk-delete-user-meta.php:131
+#: include/misc/class-bulk-delete-jetpack-contact-form-messages.php:142
+#: include/pages/class-bulk-delete-pages.php:112
+#: include/posts/class-bulk-delete-posts.php:121
+#: include/posts/class-bulk-delete-posts.php:415
+#: include/posts/class-bulk-delete-posts.php:638
+#: include/posts/class-bulk-delete-posts.php:915
+#: include/posts/class-bulk-delete-posts.php:1164
+#: include/users/class-bulk-delete-users.php:91
+#: tmp_addon/bulk-delete-attachments.php:301
+#: tmp_addon/bulk-delete-posts-by-attachment.php:210
+#: tmp_addon/bulk-delete-posts-by-content.php:228
+#: tmp_addon/bulk-delete-posts-by-custom-field.php:238
+#: tmp_addon/bulk-delete-posts-by-duplicate-title.php:180
+#: tmp_addon/bulk-delete-posts-by-title.php:184
+#: tmp_addon/bulk-delete-posts-by-user-role.php:162
+#: tmp_addon/bulk-delete-posts-by-user.php:206
+msgid "repeat "
+msgstr ""
+
+#: include/meta/class-bulk-delete-comment-meta.php:153
+#: include/meta/class-bulk-delete-post-meta.php:153
+#: include/meta/class-bulk-delete-user-meta.php:133
+#: include/misc/class-bulk-delete-jetpack-contact-form-messages.php:144
+#: include/pages/class-bulk-delete-pages.php:114
+#: include/posts/class-bulk-delete-posts.php:123
+#: include/posts/class-bulk-delete-posts.php:417
+#: include/posts/class-bulk-delete-posts.php:640
+#: include/posts/class-bulk-delete-posts.php:917
+#: include/posts/class-bulk-delete-posts.php:1166
+#: include/users/class-bulk-delete-users.php:93
+#: tmp_addon/bulk-delete-attachments.php:303
+#: tmp_addon/bulk-delete-posts-by-attachment.php:212
+#: tmp_addon/bulk-delete-posts-by-content.php:230
+#: tmp_addon/bulk-delete-posts-by-custom-field.php:240
+#: tmp_addon/bulk-delete-posts-by-duplicate-title.php:182
+#: tmp_addon/bulk-delete-posts-by-title.php:186
+#: tmp_addon/bulk-delete-posts-by-user-role.php:164
+#: tmp_addon/bulk-delete-posts-by-user.php:208
+msgid "Don't repeat"
+msgstr ""
+
+#: include/meta/class-bulk-delete-comment-meta.php:171
+#: include/meta/class-bulk-delete-post-meta.php:171
+#: include/meta/class-bulk-delete-user-meta.php:151
+#: include/posts/class-bulk-delete-posts.php:433
+#: include/users/class-bulk-delete-users.php:109
+#: tmp_addon/bulk-delete-attachments.php:319
+#: tmp_addon/bulk-delete-posts-by-attachment.php:228
+#: tmp_addon/bulk-delete-posts-by-content.php:246
+#: tmp_addon/bulk-delete-posts-by-custom-field.php:256
+#: tmp_addon/bulk-delete-posts-by-duplicate-title.php:198
+#: tmp_addon/bulk-delete-posts-by-title.php:202
+#: tmp_addon/bulk-delete-posts-by-user-role.php:180
+#: tmp_addon/bulk-delete-posts-by-user.php:224
+msgid "Enter time in Y-m-d H:i:s format or enter now to use current time"
+msgstr ""
+
+#: include/meta/class-bulk-delete-comment-meta.php:179
+#: include/meta/class-bulk-delete-post-meta.php:179
+#: include/meta/class-bulk-delete-user-meta.php:159
+#: include/misc/class-bulk-delete-jetpack-contact-form-messages.php:161
+#: include/pages/class-bulk-delete-pages.php:131
+#: include/posts/class-bulk-delete-posts.php:140
+#: include/posts/class-bulk-delete-posts.php:441
+#: include/posts/class-bulk-delete-posts.php:657
+#: include/posts/class-bulk-delete-posts.php:934
+#: include/posts/class-bulk-delete-posts.php:1183
+#: include/posts/class-bulk-delete-posts.php:1345
+#: include/posts/class-bulk-delete-posts.php:1419
+#: include/users/class-bulk-delete-users.php:117
+#: tmp_addon/bulk-delete-attachments.php:326
+#: tmp_addon/bulk-delete-from-trash.php:162
+#: tmp_addon/bulk-delete-from-trash.php:270
+#: tmp_addon/bulk-delete-posts-by-attachment.php:235
+#: tmp_addon/bulk-delete-posts-by-content.php:254
+#: tmp_addon/bulk-delete-posts-by-custom-field.php:264
+#: tmp_addon/bulk-delete-posts-by-duplicate-title.php:206
+#: tmp_addon/bulk-delete-posts-by-title.php:210
+#: tmp_addon/bulk-delete-posts-by-user-role.php:188
+#: tmp_addon/bulk-delete-posts-by-user.php:232
+msgid "Bulk Delete "
+msgstr ""
+
+#: include/meta/class-bulk-delete-comment-meta.php:198
+msgid ""
+"Are you sure you want to delete all the comment meta fields that match the "
+"selected filters?"
+msgstr ""
+
+#: include/meta/class-bulk-delete-comment-meta.php:239
+msgid ""
+"Comment meta fields from the comments with the selected criteria are "
+"scheduled for deletion."
+msgstr ""
+
+#: include/meta/class-bulk-delete-comment-meta.php:240
+#: include/meta/class-bulk-delete-post-meta.php:240
+#: include/meta/class-bulk-delete-user-meta.php:216
+#: include/misc/class-bulk-delete-jetpack-contact-form-messages.php:221
+#: include/pages/class-bulk-delete-pages.php:167
+#: include/posts/class-bulk-delete-posts.php:178
+#: include/posts/class-bulk-delete-posts.php:477
+#: include/posts/class-bulk-delete-posts.php:696
+#: include/posts/class-bulk-delete-posts.php:975
+#: include/posts/class-bulk-delete-posts.php:1223
+#: include/users/class-bulk-delete-users.php:150
+#: tmp_addon/bulk-delete-attachments.php:375
+#: tmp_addon/bulk-delete-posts-by-attachment.php:288
+#: tmp_addon/bulk-delete-posts-by-content.php:292
+#: tmp_addon/bulk-delete-posts-by-custom-field.php:306
+#: tmp_addon/bulk-delete-posts-by-duplicate-title.php:249
+#: tmp_addon/bulk-delete-posts-by-title.php:247
+#: tmp_addon/bulk-delete-posts-by-user-role.php:222
+#: tmp_addon/bulk-delete-posts-by-user.php:265
+msgid "See the full list of <a href = \"%s\">scheduled tasks</a>"
+msgstr ""
+
+#: include/meta/class-bulk-delete-comment-meta.php:243
+msgid "Deleted comment meta field from %d comment"
+msgid_plural "Deleted comment meta field from %d comments"
+msgstr[0] ""
+msgstr[1] ""
+
+#: include/meta/class-bulk-delete-meta.php:38
+#: include/meta/class-bulk-delete-meta.php:39
+#: include/meta/class-bulk-delete-meta.php:102
+msgid "Bulk Delete Meta Fields"
+msgstr ""
+
+#: include/meta/class-bulk-delete-meta.php:117
+#: tmp_addon/bulk-delete-attachments.php:193
+msgid "WARNING: Items deleted once cannot be retrieved back. Use with caution."
+msgstr ""
+
+#: include/meta/class-bulk-delete-post-meta.php:38
+msgid "Bulk Delete Post Meta"
+msgstr ""
+
+#: include/meta/class-bulk-delete-post-meta.php:68
+msgid "Select the post type whose post meta fields you want to delete"
+msgstr ""
+
+#: include/meta/class-bulk-delete-post-meta.php:84
+msgid "Choose your post meta field settings"
+msgstr ""
+
+#: include/meta/class-bulk-delete-post-meta.php:89
+msgid "Delete based on post meta key name only"
+msgstr ""
+
+#: include/meta/class-bulk-delete-post-meta.php:96
+msgid "Delete based on post meta key name and value"
+msgstr ""
+
+#: include/meta/class-bulk-delete-post-meta.php:105
+msgid "Post Meta Key "
+msgstr ""
+
+#: include/meta/class-bulk-delete-post-meta.php:129
+#: include/misc/class-bulk-delete-jetpack-contact-form-messages.php:105
+#: include/posts/class-bulk-delete-posts.php:92
+#: include/posts/class-bulk-delete-posts.php:377
+#: include/posts/class-bulk-delete-posts.php:600
+#: include/posts/class-bulk-delete-posts.php:877
+#: include/posts/class-bulk-delete-posts.php:1133
+#: tmp_addon/bulk-delete-posts-by-attachment.php:172
+#: tmp_addon/bulk-delete-posts-by-content.php:192
+#: tmp_addon/bulk-delete-posts-by-custom-field.php:200
+#: tmp_addon/bulk-delete-posts-by-title.php:146
+#: tmp_addon/bulk-delete-posts-by-user-role.php:132
+#: tmp_addon/bulk-delete-posts-by-user.php:176
+msgid "Only restrict to posts which are "
+msgstr ""
+
+#: include/meta/class-bulk-delete-post-meta.php:132
+#: include/misc/class-bulk-delete-jetpack-contact-form-messages.php:108
+#: include/pages/class-bulk-delete-pages.php:86
+#: include/posts/class-bulk-delete-posts.php:95
+#: include/posts/class-bulk-delete-posts.php:380
+#: include/posts/class-bulk-delete-posts.php:603
+#: include/posts/class-bulk-delete-posts.php:880
+#: include/posts/class-bulk-delete-posts.php:1136
+#: tmp_addon/bulk-delete-attachments.php:273
+#: tmp_addon/bulk-delete-posts-by-attachment.php:175
+#: tmp_addon/bulk-delete-posts-by-content.php:195
+#: tmp_addon/bulk-delete-posts-by-custom-field.php:203
+#: tmp_addon/bulk-delete-posts-by-title.php:149
+#: tmp_addon/bulk-delete-posts-by-user-role.php:135
+#: tmp_addon/bulk-delete-posts-by-user.php:179
+msgid "posted within last"
+msgstr ""
+
+#: include/meta/class-bulk-delete-post-meta.php:141
+msgid "Only delete post meta field from first "
+msgstr ""
+
+#: include/meta/class-bulk-delete-post-meta.php:142
+#: include/misc/class-bulk-delete-jetpack-contact-form-messages.php:120
+#: include/posts/class-bulk-delete-posts.php:112
+#: include/posts/class-bulk-delete-posts.php:406
+#: include/posts/class-bulk-delete-posts.php:629
+#: include/posts/class-bulk-delete-posts.php:906
+#: include/posts/class-bulk-delete-posts.php:1155
+#: tmp_addon/bulk-delete-posts-by-attachment.php:201
+#: tmp_addon/bulk-delete-posts-by-content.php:219
+#: tmp_addon/bulk-delete-posts-by-custom-field.php:229
+#: tmp_addon/bulk-delete-posts-by-title.php:175
+#: tmp_addon/bulk-delete-posts-by-user-role.php:153
+#: tmp_addon/bulk-delete-posts-by-user.php:197
+msgid "posts."
+msgstr ""
+
+#: include/meta/class-bulk-delete-post-meta.php:198
+msgid ""
+"Are you sure you want to delete all the post meta fields that match the "
+"selected filters?"
+msgstr ""
+
+#: include/meta/class-bulk-delete-post-meta.php:239
+msgid ""
+"Post meta fields from the posts with the selected criteria are scheduled for "
+"deletion."
+msgstr ""
+
+#: include/meta/class-bulk-delete-post-meta.php:243
+msgid "Deleted post meta field from %d post"
+msgid_plural "Deleted post meta field from %d posts"
+msgstr[0] ""
+msgstr[1] ""
+
+#: include/meta/class-bulk-delete-user-meta.php:38
+msgid "Bulk Delete User Meta"
+msgstr ""
+
+#: include/meta/class-bulk-delete-user-meta.php:59
+msgid "Select the user role whose user meta fields you want to delete"
+msgstr ""
+
+#: include/meta/class-bulk-delete-user-meta.php:68
+#: include/users/class-bulk-delete-users.php:34
+#: tmp_addon/bulk-delete-posts-by-user-role.php:96
+msgid "Users"
+msgstr ""
+
+#: include/meta/class-bulk-delete-user-meta.php:76
+msgid "Choose your user meta field settings"
+msgstr ""
+
+#: include/meta/class-bulk-delete-user-meta.php:81
+msgid "Delete based on user meta key name only"
+msgstr ""
+
+#: include/meta/class-bulk-delete-user-meta.php:88
+msgid "Delete based on user meta key name and value"
+msgstr ""
+
+#: include/meta/class-bulk-delete-user-meta.php:97
+msgid "User Meta Key "
+msgstr ""
+
+#: include/meta/class-bulk-delete-user-meta.php:121
+msgid "Only delete user meta field from first "
+msgstr ""
+
+#: include/meta/class-bulk-delete-user-meta.php:122
+#: include/users/class-bulk-delete-users.php:82
+msgid "users."
+msgstr ""
+
+#: include/meta/class-bulk-delete-user-meta.php:123
+msgid ""
+"Use this option if there are more than 1000 users and the script timesout."
+msgstr ""
+
+#: include/meta/class-bulk-delete-user-meta.php:178
+msgid ""
+"Are you sure you want to delete all the user meta fields that match the "
+"selected filters?"
+msgstr ""
+
+#: include/meta/class-bulk-delete-user-meta.php:215
+msgid ""
+"User meta fields from the users with the selected criteria are scheduled for "
+"deletion."
+msgstr ""
+
+#: include/meta/class-bulk-delete-user-meta.php:219
+msgid "Deleted user meta field from %d user"
+msgid_plural "Deleted user meta field from %d users"
+msgstr[0] ""
+msgstr[1] ""
+
+#: include/misc/class-bulk-delete-jetpack-contact-form-messages.php:30
+msgid "Bulk Delete Jetpack Contact Form Messages"
+msgstr ""
+
+#: include/misc/class-bulk-delete-jetpack-contact-form-messages.php:54
+msgid "Jetpack contact form is not enabled."
+msgstr ""
+
+#: include/misc/class-bulk-delete-jetpack-contact-form-messages.php:70
+msgid "Delete all Contact Form Messages"
+msgstr ""
+
+#: include/misc/class-bulk-delete-jetpack-contact-form-messages.php:70
+msgid "in total"
+msgstr ""
+
+#: include/misc/class-bulk-delete-jetpack-contact-form-messages.php:79
+msgid "Delete Messages based on filters"
+msgstr ""
+
+#: include/misc/class-bulk-delete-jetpack-contact-form-messages.php:96
+msgid "Choose your date options"
+msgstr ""
+
+#: include/misc/class-bulk-delete-jetpack-contact-form-messages.php:119
+#: include/pages/class-bulk-delete-pages.php:102
+#: include/posts/class-bulk-delete-posts.php:111
+#: include/posts/class-bulk-delete-posts.php:405
+#: include/posts/class-bulk-delete-posts.php:628
+#: include/posts/class-bulk-delete-posts.php:905
+#: include/posts/class-bulk-delete-posts.php:1154
+#: include/users/class-bulk-delete-users.php:80
+#: tmp_addon/bulk-delete-attachments.php:291
+#: tmp_addon/bulk-delete-posts-by-attachment.php:200
+#: tmp_addon/bulk-delete-posts-by-content.php:218
+#: tmp_addon/bulk-delete-posts-by-custom-field.php:228
+#: tmp_addon/bulk-delete-posts-by-duplicate-title.php:170
+#: tmp_addon/bulk-delete-posts-by-title.php:174
+#: tmp_addon/bulk-delete-posts-by-user-role.php:151
+#: tmp_addon/bulk-delete-posts-by-user.php:195
+msgid "Only delete first "
+msgstr ""
+
+#: include/misc/class-bulk-delete-jetpack-contact-form-messages.php:133
+#: include/pages/class-bulk-delete-pages.php:94
+#: include/posts/class-bulk-delete-posts.php:103
+#: include/posts/class-bulk-delete-posts.php:388
+#: include/posts/class-bulk-delete-posts.php:611
+#: include/posts/class-bulk-delete-posts.php:888
+#: include/posts/class-bulk-delete-posts.php:1144
+#: include/posts/class-bulk-delete-posts.php:1336
+#: tmp_addon/bulk-delete-attachments.php:281
+#: tmp_addon/bulk-delete-posts-by-attachment.php:183
+#: tmp_addon/bulk-delete-posts-by-content.php:203
+#: tmp_addon/bulk-delete-posts-by-custom-field.php:211
+#: tmp_addon/bulk-delete-posts-by-duplicate-title.php:162
+#: tmp_addon/bulk-delete-posts-by-title.php:157
+#: tmp_addon/bulk-delete-posts-by-user-role.php:143
+#: tmp_addon/bulk-delete-posts-by-user.php:187
+msgid "Move to Trash"
+msgstr ""
+
+#: include/misc/class-bulk-delete-jetpack-contact-form-messages.php:134
+#: include/pages/class-bulk-delete-pages.php:95
+#: include/posts/class-bulk-delete-posts.php:104
+#: include/posts/class-bulk-delete-posts.php:389
+#: include/posts/class-bulk-delete-posts.php:612
+#: include/posts/class-bulk-delete-posts.php:889
+#: include/posts/class-bulk-delete-posts.php:1145
+#: include/posts/class-bulk-delete-posts.php:1337
+#: tmp_addon/bulk-delete-attachments.php:282
+#: tmp_addon/bulk-delete-posts-by-attachment.php:184
+#: tmp_addon/bulk-delete-posts-by-content.php:204
+#: tmp_addon/bulk-delete-posts-by-custom-field.php:212
+#: tmp_addon/bulk-delete-posts-by-duplicate-title.php:163
+#: tmp_addon/bulk-delete-posts-by-title.php:158
+#: tmp_addon/bulk-delete-posts-by-user-role.php:144
+#: tmp_addon/bulk-delete-posts-by-user.php:188
+msgid "Delete permanently"
+msgstr ""
+
+#: include/misc/class-bulk-delete-jetpack-contact-form-messages.php:181
+msgid ""
+"Are you sure you want to delete all the Jetpack contact form messages based "
+"on the selected filters?"
+msgstr ""
+
+#: include/misc/class-bulk-delete-jetpack-contact-form-messages.php:220
+msgid ""
+"Jetpack contact form messages with the selected criteria are scheduled for "
+"deletion."
+msgstr ""
+
+#: include/misc/class-bulk-delete-jetpack-contact-form-messages.php:224
+msgid "Deleted %d Jetpack contact form message"
+msgid_plural "Deleted %d Jetpack contact form messages"
+msgstr[0] ""
+msgstr[1] ""
+
+#: include/misc/class-bulk-delete-misc.php:33
+#: include/misc/class-bulk-delete-misc.php:97
+msgid "Bulk Delete Miscellaneous Items"
+msgstr ""
+
+#: include/misc/class-bulk-delete-misc.php:34
+msgid "Bulk Delete Misc"
+msgstr ""
+
+#: include/pages/class-bulk-delete-pages.php:35
+msgid "Select the pages which you want to delete"
+msgstr ""
+
+#: include/pages/class-bulk-delete-pages.php:42
+msgid "All Published Pages"
+msgstr ""
+
+#: include/pages/class-bulk-delete-pages.php:42
+#: include/pages/class-bulk-delete-pages.php:49
+#: include/pages/class-bulk-delete-pages.php:56
+#: include/pages/class-bulk-delete-pages.php:63
+#: include/pages/class-bulk-delete-pages.php:70
+msgid "Pages"
+msgstr ""
+
+#: include/pages/class-bulk-delete-pages.php:49
+msgid "All Draft Pages"
+msgstr ""
+
+#: include/pages/class-bulk-delete-pages.php:56
+msgid "All Scheduled Pages"
+msgstr ""
+
+#: include/pages/class-bulk-delete-pages.php:63
+msgid "All Pending Pages"
+msgstr ""
+
+#: include/pages/class-bulk-delete-pages.php:70
+msgid "All Private Pages"
+msgstr ""
+
+#: include/pages/class-bulk-delete-pages.php:76
+#: include/posts/class-bulk-delete-posts.php:79
+#: include/posts/class-bulk-delete-posts.php:368
+#: include/posts/class-bulk-delete-posts.php:591
+#: include/posts/class-bulk-delete-posts.php:868
+#: include/posts/class-bulk-delete-posts.php:1124
+#: include/posts/class-bulk-delete-posts.php:1330
+#: include/users/class-bulk-delete-users.php:42
+#: tmp_addon/bulk-delete-attachments.php:261
+#: tmp_addon/bulk-delete-jetpack-contact-form-messages.php:123
+#: tmp_addon/bulk-delete-posts-by-attachment.php:163
+#: tmp_addon/bulk-delete-posts-by-content.php:186
+#: tmp_addon/bulk-delete-posts-by-custom-field.php:191
+#: tmp_addon/bulk-delete-posts-by-duplicate-title.php:156
+#: tmp_addon/bulk-delete-posts-by-title.php:137
+#: tmp_addon/bulk-delete-posts-by-user-role.php:127
+#: tmp_addon/bulk-delete-posts-by-user.php:171
+msgid "Choose your filtering options"
+msgstr ""
+
+#: include/pages/class-bulk-delete-pages.php:83
+msgid "Only restrict to pages which are "
+msgstr ""
+
+#: include/pages/class-bulk-delete-pages.php:103
+msgid "pages."
+msgstr ""
+
+#: include/pages/class-bulk-delete-pages.php:104
+msgid ""
+"Use this option if there are more than 1000 pages and the script timesout."
+msgstr ""
+
+#: include/pages/class-bulk-delete-pages.php:166
+msgid "The selected pages are scheduled for deletion."
+msgstr ""
+
+#: include/pages/class-bulk-delete-pages.php:170
+msgid "Deleted %d page"
+msgid_plural "Deleted %d pages"
+msgstr[0] ""
+msgstr[1] ""
+
+#: include/pages/class-bulk-delete-pages.php:273
+msgid "You need \"Bulk Delete From Trash\" Addon, to delete pages in Trash."
+msgstr ""
+
+#: include/posts/class-bulk-delete-posts.php:31
+#: include/posts/class-bulk-delete-posts.php:1404
+msgid "Select the posts which you want to delete"
+msgstr ""
+
+#: include/posts/class-bulk-delete-posts.php:38
+msgid "All publish posts"
+msgstr ""
+
+#: include/posts/class-bulk-delete-posts.php:38
+#: include/posts/class-bulk-delete-posts.php:52
+#: include/posts/class-bulk-delete-posts.php:59
+#: include/posts/class-bulk-delete-posts.php:66
+#: include/posts/class-bulk-delete-posts.php:73
+#: include/posts/class-bulk-delete-posts.php:349
+#: include/posts/class-bulk-delete-posts.php:574
+#: include/posts/class-bulk-delete-posts.php:855
+msgid "Posts"
+msgstr ""
+
+#: include/posts/class-bulk-delete-posts.php:45
+msgid "All Draft Posts"
+msgstr ""
+
+#: include/posts/class-bulk-delete-posts.php:45
+msgid "Drafts"
+msgstr ""
+
+#: include/posts/class-bulk-delete-posts.php:52
+msgid "All Pending posts"
+msgstr ""
+
+#: include/posts/class-bulk-delete-posts.php:59
+msgid "All scheduled posts"
+msgstr ""
+
+#: include/posts/class-bulk-delete-posts.php:66
+msgid "All private posts"
+msgstr ""
+
+#: include/posts/class-bulk-delete-posts.php:73
+msgid "All Sticky posts"
+msgstr ""
+
+#: include/posts/class-bulk-delete-posts.php:85
+msgid "Note: The date filter will not work for sticky posts"
+msgstr ""
+
+#: include/posts/class-bulk-delete-posts.php:177
+msgid "Posts with the selected status are scheduled for deletion."
+msgstr ""
+
+#: include/posts/class-bulk-delete-posts.php:181
+msgid "Deleted %d post with the selected post status"
+msgid_plural "Deleted %d posts with the selected post status"
+msgstr[0] ""
+msgstr[1] ""
+
+#: include/posts/class-bulk-delete-posts.php:313
+msgid "Select the post type whose category posts you want to delete"
+msgstr ""
+
+#: include/posts/class-bulk-delete-posts.php:332
+msgid "Select the categories whose post you want to delete"
+msgstr ""
+
+#: include/posts/class-bulk-delete-posts.php:333
+msgid ""
+"Note: The post count below for each category is the total number of posts in "
+"that category, irrespective of post type"
+msgstr ""
+
+#: include/posts/class-bulk-delete-posts.php:360
+msgid "All Categories"
+msgstr ""
+
+#: include/posts/class-bulk-delete-posts.php:395
+#: include/posts/class-bulk-delete-posts.php:618
+#: include/posts/class-bulk-delete-posts.php:895
+#: tmp_addon/bulk-delete-posts-by-attachment.php:190
+#: tmp_addon/bulk-delete-posts-by-content.php:210
+#: tmp_addon/bulk-delete-posts-by-custom-field.php:218
+#: tmp_addon/bulk-delete-posts-by-title.php:164
+msgid "Public posts"
+msgstr ""
+
+#: include/posts/class-bulk-delete-posts.php:396
+#: include/posts/class-bulk-delete-posts.php:619
+#: include/posts/class-bulk-delete-posts.php:896
+#: tmp_addon/bulk-delete-posts-by-attachment.php:191
+#: tmp_addon/bulk-delete-posts-by-content.php:211
+#: tmp_addon/bulk-delete-posts-by-custom-field.php:219
+#: tmp_addon/bulk-delete-posts-by-title.php:165
+msgid "Private Posts"
+msgstr ""
+
+#: include/posts/class-bulk-delete-posts.php:476
+msgid "Posts from the selected categories are scheduled for deletion."
+msgstr ""
+
+#: include/posts/class-bulk-delete-posts.php:480
+msgid "Deleted %d post from the selected categories"
+msgid_plural "Deleted %d posts from the selected categories"
+msgstr[0] ""
+msgstr[1] ""
+
+#: include/posts/class-bulk-delete-posts.php:561
+msgid "Select the tags whose post you want to delete"
+msgstr ""
+
+#: include/posts/class-bulk-delete-posts.php:585
+msgid "All Tags"
+msgstr ""
+
+#: include/posts/class-bulk-delete-posts.php:663
+msgid "You don't have any posts assigned to tags in this blog."
+msgstr ""
+
+#: include/posts/class-bulk-delete-posts.php:695
+msgid "Posts from the selected tags are scheduled for deletion."
+msgstr ""
+
+#: include/posts/class-bulk-delete-posts.php:699
+msgid "Deleted %d post from the selected tags"
+msgid_plural "Deleted %d posts from the selected tags"
+msgstr[0] ""
+msgstr[1] ""
+
+#: include/posts/class-bulk-delete-posts.php:802
+msgid "Select the post type whose taxonomy posts you want to delete"
+msgstr ""
+
+#: include/posts/class-bulk-delete-posts.php:822
+msgid "Select the taxonomies whose post you want to delete"
+msgstr ""
+
+#: include/posts/class-bulk-delete-posts.php:841
+msgid ""
+"The selected taxonomy has the following terms. Select the terms whose post "
+"you want to delete"
+msgstr ""
+
+#: include/posts/class-bulk-delete-posts.php:842
+msgid ""
+"Note: The post count below for each term is the total number of posts in "
+"that term, irrespective of post type"
+msgstr ""
+
+#: include/posts/class-bulk-delete-posts.php:940
+msgid "You don't have any posts assigned to custom taxonomies in this blog."
+msgstr ""
+
+#: include/posts/class-bulk-delete-posts.php:974
+msgid "Posts from the selected custom taxonomies are scheduled for deletion."
+msgstr ""
+
+#: include/posts/class-bulk-delete-posts.php:978
+msgid "Deleted %d post from the selected custom taxonomies"
+msgid_plural "Deleted %d posts from the selected custom taxonomies"
+msgstr[0] ""
+msgstr[1] ""
+
+#: include/posts/class-bulk-delete-posts.php:1104
+msgid "Select the custom post type whose post you want to delete"
+msgstr ""
+
+#: include/posts/class-bulk-delete-posts.php:1189
+msgid "You don't have any posts assigned to custom post types in this blog."
+msgstr ""
+
+#: include/posts/class-bulk-delete-posts.php:1222
+msgid "Posts from the selected custom post type are scheduled for deletion."
+msgstr ""
+
+#: include/posts/class-bulk-delete-posts.php:1226
+msgid "Deleted %d post from the selected custom post type"
+msgid_plural "Deleted %d posts from the selected custom post type"
+msgstr[0] ""
+msgstr[1] ""
+
+#: include/posts/class-bulk-delete-posts.php:1316
+msgid "Delete posts and pages that have the following Permalink"
+msgstr ""
+
+#: include/posts/class-bulk-delete-posts.php:1322
+msgid "Enter one post url (not post ids) per line"
+msgstr ""
+
+#: include/posts/class-bulk-delete-posts.php:1377
+msgid "Deleted %d post with the specified urls"
+msgid_plural "Deleted %d posts with the specified urls"
+msgstr[0] ""
+msgstr[1] ""
+
+#: include/posts/class-bulk-delete-posts.php:1411
+msgid "All Revisions"
+msgstr ""
+
+#: include/posts/class-bulk-delete-posts.php:1411
+msgid "Revisions"
+msgstr ""
+
+#: include/posts/class-bulk-delete-posts.php:1435
+msgid "Deleted %d post revision"
+msgid_plural "Deleted %d post revisions"
+msgstr[0] ""
+msgstr[1] ""
+
+#: include/posts/class-bulk-delete-posts.php:1487
+msgid ""
+"You need \"Bulk Delete Posts by Custom Field\" Addon, to delete post by "
+"custom field."
+msgstr ""
+
+#: include/posts/class-bulk-delete-posts.php:1516
+msgid "You need \"Bulk Delete Posts by Title\" Addon, to delete post by title."
+msgstr ""
+
+#: include/posts/class-bulk-delete-posts.php:1546
+msgid ""
+"You need \"Bulk Delete Posts by Duplicate Title\" Addon, to delete post by "
+"duplicate title."
+msgstr ""
+
+#: include/posts/class-bulk-delete-posts.php:1574
+msgid ""
+"You need \"Bulk Delete Posts by User Role\" Addon, to delete post based on "
+"User Role"
+msgstr ""
+
+#: include/posts/class-bulk-delete-posts.php:1602
+msgid "You need \"Bulk Delete From Trash\" Addon, to delete post in Trash."
+msgstr ""
+
+#: include/posts/class-bulk-delete-posts.php:1628
+msgid ""
+"Are you sure you want to delete all the posts based on the selected option?"
+msgstr ""
+
+#: include/posts/class-bulk-delete-posts.php:1629
+msgid "Please select posts from at least one option"
+msgstr ""
+
+#: include/posts/class-bulk-delete-posts.php:1633
+msgid "Please enter at least one post url"
+msgstr ""
+
+#: include/posts/class-bulk-delete-posts.php:1657
+msgid "The selected scheduled job was successfully deleted "
+msgstr ""
+
+#: include/settings/class-bd-settings-page.php:45
+#: include/settings/class-bd-settings-page.php:93
+msgid "Bulk Delete Settings"
+msgstr ""
+
+#: include/settings/class-bd-settings-page.php:46
+msgid "Settings"
+msgstr ""
+
+#: include/settings/class-bd-settings.php:28
+msgid "Add Addon License"
+msgstr ""
+
+#: include/ui/admin-ui.php:19
+msgid ""
+"Thank you for using <a href = \"%1$s\">Bulk Delete</a> plugin! Kindly <a "
+"href = \"%2$s\">rate us</a> at <a href = \"%2$s\">WordPress.org</a>"
+msgstr ""
+
+#: include/ui/admin-ui.php:72
+msgid "Buy Addons"
+msgstr ""
+
+#: include/ui/class-bulk-delete-help-screen.php:32
+msgid "More information"
+msgstr ""
+
+#: include/ui/class-bulk-delete-help-screen.php:33
+msgid "Support Forums"
+msgstr ""
+
+#: include/ui/class-bulk-delete-help-screen.php:34
+msgid "Buy pro addons"
+msgstr ""
+
+#: include/ui/class-bulk-delete-help-screen.php:35
+msgid "Plugin author's blog"
+msgstr ""
+
+#: include/ui/class-bulk-delete-help-screen.php:36
+msgid "Other Plugin's by Author"
+msgstr ""
+
+#: include/ui/class-bulk-delete-help-screen.php:57
+#: include/ui/class-bulk-delete-help-screen.php:69
+#: include/ui/class-bulk-delete-help-screen.php:81
+msgid "Overview"
+msgstr ""
+
+#: include/ui/class-bulk-delete-help-screen.php:59
+msgid ""
+"This screen contains different modules that allows you to delete posts or "
+"schedule them for deletion."
+msgstr ""
+
+#: include/ui/class-bulk-delete-help-screen.php:71
+msgid ""
+"This screen contains different modules that allows you to delete pages or "
+"schedule them for deletion."
+msgstr ""
+
+#: include/ui/class-bulk-delete-help-screen.php:83
+msgid ""
+"This screen contains different modules that allows you to delete users or "
+"schedule them for deletion."
+msgstr ""
+
+#: include/ui/class-bulk-delete-help-screen.php:93
+msgid "About Plugin"
+msgstr ""
+
+#: include/ui/class-bulk-delete-help-screen.php:116
+msgid "This plugin allows you to perform bulk operations in WordPress easily."
+msgstr ""
+
+#: include/ui/class-bulk-delete-help-screen.php:117
+msgid ""
+"This plugin can be used to delete the posts, pages or users using various "
+"filters and conditions."
+msgstr ""
+
+#: include/ui/class-bulk-delete-system-info.php:55
+msgid "System Information"
+msgstr ""
+
+#: include/ui/class-bulk-delete-system-info.php:63
+msgid "Please include this information when posting support requests."
+msgstr ""
+
+#: include/ui/class-bulk-delete-system-info.php:72
+msgid ""
+"To copy the system info, click below then press Ctrl + C (PC) or Cmd + C "
+"(Mac)."
+msgstr ""
+
+#: include/users/class-bulk-delete-users.php:23
+msgid "Select the user roles from which you want to delete users"
+msgstr ""
+
+#: include/users/class-bulk-delete-users.php:56
+msgid "Only restrict to users who have not logged in the last "
+msgstr ""
+
+#: include/users/class-bulk-delete-users.php:62
+msgid "Need Simple Login Log Plugin"
+msgstr ""
+
+#: include/users/class-bulk-delete-users.php:73
+msgid ""
+"Only if user doesn't have any post. Only posts from 'post' post type would "
+"be considered."
+msgstr ""
+
+#: include/users/class-bulk-delete-users.php:83
+msgid ""
+"Use this option if there are more than 1000 users or the script timesout."
+msgstr ""
+
+#: include/users/class-bulk-delete-users.php:149
+msgid "Users from the selected userrole are scheduled for deletion."
+msgstr ""
+
+#: include/users/class-bulk-delete-users.php:153
+msgid "Deleted %d user from the selected roles"
+msgid_plural "Deleted %d users from the selected role"
+msgstr[0] ""
+msgstr[1] ""
+
+#: include/users/class-bulk-delete-users.php:227
+msgid ""
+"Are you sure you want to delete all the users from the selected user role?"
+msgstr ""
+
+#: include/users/class-bulk-delete-users.php:230
+msgid "Select at least one user role from which users should be deleted"
+msgstr ""
+
+#: include/util/class-bd-util.php:131
+msgctxt "Cron table date format"
+msgid "M j, Y @ G:i"
+msgstr ""
+
+#: tmp_addon/bulk-delete-attachments.php:118
+#: tmp_addon/bulk-delete-attachments.php:119
+#: tmp_addon/bulk-delete-attachments.php:178
+msgid "Bulk Delete Attachment"
+msgstr ""
+
+#: tmp_addon/bulk-delete-attachments.php:228
+msgid "Bulk Delete Attachments"
+msgstr ""
+
+#: tmp_addon/bulk-delete-attachments.php:245
+#: tmp_addon/bulk-delete-posts-by-attachment.php:147
+msgid "Choose your attachment settings"
+msgstr ""
+
+#: tmp_addon/bulk-delete-attachments.php:249
+msgid "Delete only attached attachments"
+msgstr ""
+
+#: tmp_addon/bulk-delete-attachments.php:255
+msgid "Delete only unattached attachments"
+msgstr ""
+
+#: tmp_addon/bulk-delete-attachments.php:270
+msgid "Only restrict to attachments which are "
+msgstr ""
+
+#: tmp_addon/bulk-delete-attachments.php:292
+msgid "attachments."
+msgstr ""
+
+#: tmp_addon/bulk-delete-attachments.php:293
+msgid ""
+"Use this option if there are more than 1000 attachments and the script "
+"timesout."
+msgstr ""
+
+#: tmp_addon/bulk-delete-attachments.php:374
+msgid "Attachments matching the selected settings are scheduled for deletion."
+msgstr ""
+
+#: tmp_addon/bulk-delete-attachments.php:379
+msgid "Deleted %d attachment using the selected condition"
+msgid_plural "Deleted %d attachemnts using the selected condition"
+msgstr[0] ""
+msgstr[1] ""
+
+#: tmp_addon/bulk-delete-attachments.php:456
+#: tmp_addon/bulk-delete-comment-meta.php:213
+#: tmp_addon/bulk-delete-from-trash.php:385
+#: tmp_addon/bulk-delete-jetpack-contact-form-messages.php:259
+#: tmp_addon/bulk-delete-post-meta.php:213
+#: tmp_addon/bulk-delete-posts-by-attachment.php:377
+#: tmp_addon/bulk-delete-posts-by-content.php:388
+#: tmp_addon/bulk-delete-posts-by-custom-field.php:501
+#: tmp_addon/bulk-delete-posts-by-duplicate-title.php:354
+#: tmp_addon/bulk-delete-posts-by-title.php:410
+#: tmp_addon/bulk-delete-posts-by-user-role.php:322
+#: tmp_addon/bulk-delete-posts-by-user.php:335
+#: tmp_addon/bulk-delete-scheduler-email.php:335
+#: tmp_addon/bulk-delete-scheduler-for-deleting-attachments.php:112
+#: tmp_addon/bulk-delete-scheduler-for-deleting-pages-by-status.php:108
+#: tmp_addon/bulk-delete-scheduler-for-deleting-posts-by-attachment.php:114
+#: tmp_addon/bulk-delete-scheduler-for-deleting-posts-by-category.php:108
+#: tmp_addon/bulk-delete-scheduler-for-deleting-posts-by-content.php:112
+#: tmp_addon/bulk-delete-scheduler-for-deleting-posts-by-custom-field.php:108
+#: tmp_addon/bulk-delete-scheduler-for-deleting-posts-by-duplicate-title.php:117
+#: tmp_addon/bulk-delete-scheduler-for-deleting-posts-by-post-type.php:107
+#: tmp_addon/bulk-delete-scheduler-for-deleting-posts-by-status.php:108
+#: tmp_addon/bulk-delete-scheduler-for-deleting-posts-by-tag.php:108
+#: tmp_addon/bulk-delete-scheduler-for-deleting-posts-by-taxonomy.php:103
+#: tmp_addon/bulk-delete-scheduler-for-deleting-posts-by-user-role.php:108
+#: tmp_addon/bulk-delete-scheduler-for-deleting-posts-by-user.php:129
+#: tmp_addon/bulk-delete-scheduler-for-deleting-users-by-role.php:108
+#: tmp_addon/bulk-delete-user-meta.php:213
+msgid ""
+"<strong>%s</strong> addon needs <a href=\"%s\">Bulk Delete plugin</a> to be "
+"installed and activated; the addon has been <strong>deactivated</strong>."
+msgstr ""
+
+#: tmp_addon/bulk-delete-comment-meta.php:123
+msgid "Comment Meta Value "
+msgstr ""
+
+#: tmp_addon/bulk-delete-comment-meta.php:125
+#: tmp_addon/bulk-delete-post-meta.php:125
+#: tmp_addon/bulk-delete-posts-by-content.php:165
+#: tmp_addon/bulk-delete-posts-by-title.php:124
+#: tmp_addon/bulk-delete-user-meta.php:125
+msgid "equal to"
+msgstr ""
+
+#: tmp_addon/bulk-delete-comment-meta.php:126
+#: tmp_addon/bulk-delete-post-meta.php:126
+#: tmp_addon/bulk-delete-posts-by-content.php:166
+#: tmp_addon/bulk-delete-posts-by-title.php:125
+#: tmp_addon/bulk-delete-user-meta.php:126
+msgid "not equal to"
+msgstr ""
+
+#: tmp_addon/bulk-delete-comment-meta.php:127
+#: tmp_addon/bulk-delete-post-meta.php:127
+#: tmp_addon/bulk-delete-user-meta.php:127
+msgid "less than"
+msgstr ""
+
+#: tmp_addon/bulk-delete-comment-meta.php:128
+#: tmp_addon/bulk-delete-post-meta.php:128
+#: tmp_addon/bulk-delete-user-meta.php:128
+msgid "less than or equal to"
+msgstr ""
+
+#: tmp_addon/bulk-delete-comment-meta.php:129
+#: tmp_addon/bulk-delete-post-meta.php:129
+#: tmp_addon/bulk-delete-user-meta.php:129
+msgid "greater than"
+msgstr ""
+
+#: tmp_addon/bulk-delete-comment-meta.php:130
+#: tmp_addon/bulk-delete-post-meta.php:130
+#: tmp_addon/bulk-delete-user-meta.php:130
+msgid "greater than or equal to"
+msgstr ""
+
+#: tmp_addon/bulk-delete-comment-meta.php:131
+#: tmp_addon/bulk-delete-post-meta.php:131
+#: tmp_addon/bulk-delete-user-meta.php:131
+msgid "like"
+msgstr ""
+
+#: tmp_addon/bulk-delete-comment-meta.php:132
+#: tmp_addon/bulk-delete-post-meta.php:132
+#: tmp_addon/bulk-delete-user-meta.php:132
+msgid "not like"
+msgstr ""
+
+#: tmp_addon/bulk-delete-comment-meta.php:135
+#: tmp_addon/bulk-delete-post-meta.php:135
+#: tmp_addon/bulk-delete-user-meta.php:135
+msgid "CHAR"
+msgstr ""
+
+#: tmp_addon/bulk-delete-comment-meta.php:136
+#: tmp_addon/bulk-delete-post-meta.php:136
+#: tmp_addon/bulk-delete-user-meta.php:136
+msgid "NUMERIC"
+msgstr ""
+
+#: tmp_addon/bulk-delete-comment-meta.php:137
+#: tmp_addon/bulk-delete-post-meta.php:137
+#: tmp_addon/bulk-delete-user-meta.php:137
+msgid "DECIMAL"
+msgstr ""
+
+#: tmp_addon/bulk-delete-comment-meta.php:138
+#: tmp_addon/bulk-delete-post-meta.php:138
+#: tmp_addon/bulk-delete-user-meta.php:138
+msgid "SIGNED"
+msgstr ""
+
+#: tmp_addon/bulk-delete-comment-meta.php:139
+#: tmp_addon/bulk-delete-post-meta.php:139
+#: tmp_addon/bulk-delete-user-meta.php:139
+msgid "UNSIGNED"
+msgstr ""
+
+#: tmp_addon/bulk-delete-comment-meta.php:140
+#: tmp_addon/bulk-delete-post-meta.php:140
+#: tmp_addon/bulk-delete-user-meta.php:140
+msgid "DATE"
+msgstr ""
+
+#: tmp_addon/bulk-delete-comment-meta.php:141
+#: tmp_addon/bulk-delete-post-meta.php:141
+#: tmp_addon/bulk-delete-user-meta.php:141
+msgid "TIME"
+msgstr ""
+
+#: tmp_addon/bulk-delete-comment-meta.php:142
+#: tmp_addon/bulk-delete-post-meta.php:142
+#: tmp_addon/bulk-delete-user-meta.php:142
+msgid "DATETIME"
+msgstr ""
+
+#: tmp_addon/bulk-delete-comment-meta.php:143
+#: tmp_addon/bulk-delete-post-meta.php:143
+#: tmp_addon/bulk-delete-user-meta.php:143
+msgid "BINARY"
+msgstr ""
+
+#: tmp_addon/bulk-delete-comment-meta.php:145
+#: tmp_addon/bulk-delete-post-meta.php:145
+#: tmp_addon/bulk-delete-user-meta.php:145
+msgid "Meta Value"
+msgstr ""
+
+#: tmp_addon/bulk-delete-from-trash.php:142
+msgid "Select the post type whose posts you want to delete from trash"
+msgstr ""
+
+#: tmp_addon/bulk-delete-from-trash.php:157
+msgid "posts"
+msgstr ""
+
+#: tmp_addon/bulk-delete-from-trash.php:178
+msgid "Deleted %d post from trash"
+msgid_plural "Deleted %d posts from trash"
+msgstr[0] ""
+msgstr[1] ""
+
+#: tmp_addon/bulk-delete-from-trash.php:256
+msgid "Select the checkbox to delete pages from trash"
+msgstr ""
+
+#: tmp_addon/bulk-delete-from-trash.php:262
+msgid "pages in Trash"
+msgstr ""
+
+#: tmp_addon/bulk-delete-from-trash.php:265
+msgid "pages"
+msgstr ""
+
+#: tmp_addon/bulk-delete-from-trash.php:286
+msgid "Deleted %d page from trash"
+msgid_plural "Deleted %d pages from trash"
+msgstr[0] ""
+msgstr[1] ""
+
+#: tmp_addon/bulk-delete-from-trash.php:305
+msgid "Are you sure you want to delete the selected posts from trash?"
+msgstr ""
+
+#: tmp_addon/bulk-delete-from-trash.php:308
+msgid ""
+"Please select the post type from which you want to delete posts from trash"
+msgstr ""
+
+#: tmp_addon/bulk-delete-from-trash.php:311
+msgid "Are you sure you want to delete pages from trash?"
+msgstr ""
+
+#: tmp_addon/bulk-delete-from-trash.php:314
+msgid "Please check the checkbox to delete pages from trash"
+msgstr ""
+
+#: tmp_addon/bulk-delete-from-trash.php:330
+msgid "Choose your date filtering options"
+msgstr ""
+
+#: tmp_addon/bulk-delete-from-trash.php:337
+msgid "Only restrict to %s which were "
+msgstr ""
+
+#: tmp_addon/bulk-delete-from-trash.php:339
+#: tmp_addon/bulk-delete-posts-by-duplicate-title.php:143
+msgid "created"
+msgstr ""
+
+#: tmp_addon/bulk-delete-from-trash.php:340
+#: tmp_addon/bulk-delete-posts-by-duplicate-title.php:144
+msgid "modified"
+msgstr ""
+
+#: tmp_addon/bulk-delete-from-trash.php:341
+msgid "trashed"
+msgstr ""
+
+#: tmp_addon/bulk-delete-from-trash.php:344
+msgid "before"
+msgstr ""
+
+#: tmp_addon/bulk-delete-from-trash.php:345
+msgid "in the last"
+msgstr ""
+
+#: tmp_addon/bulk-delete-jetpack-contact-form-messages.php:132
+msgid "Only if author name "
+msgstr ""
+
+#: tmp_addon/bulk-delete-jetpack-contact-form-messages.php:134
+#: tmp_addon/bulk-delete-jetpack-contact-form-messages.php:148
+#: tmp_addon/bulk-delete-jetpack-contact-form-messages.php:162
+msgid "is"
+msgstr ""
+
+#: tmp_addon/bulk-delete-jetpack-contact-form-messages.php:135
+#: tmp_addon/bulk-delete-jetpack-contact-form-messages.php:149
+#: tmp_addon/bulk-delete-jetpack-contact-form-messages.php:163
+msgid "is not"
+msgstr ""
+
+#: tmp_addon/bulk-delete-jetpack-contact-form-messages.php:137
+msgid "Author Name"
+msgstr ""
+
+#: tmp_addon/bulk-delete-jetpack-contact-form-messages.php:146
+msgid "Only if author email "
+msgstr ""
+
+#: tmp_addon/bulk-delete-jetpack-contact-form-messages.php:151
+msgid "Author Email"
+msgstr ""
+
+#: tmp_addon/bulk-delete-jetpack-contact-form-messages.php:160
+msgid "Only if author ip "
+msgstr ""
+
+#: tmp_addon/bulk-delete-jetpack-contact-form-messages.php:165
+msgid "Author ip"
+msgstr ""
+
+#: tmp_addon/bulk-delete-post-meta.php:123
+msgid "Post Meta Value "
+msgstr ""
+
+#: tmp_addon/bulk-delete-posts-by-attachment.php:103
+msgid "By Attachment"
+msgstr ""
+
+#: tmp_addon/bulk-delete-posts-by-attachment.php:129
+#: tmp_addon/bulk-delete-posts-by-custom-field.php:135
+msgid "Select the post type whose posts you want to delete"
+msgstr ""
+
+#: tmp_addon/bulk-delete-posts-by-attachment.php:151
+msgid "Delete all posts that have attachments"
+msgstr ""
+
+#: tmp_addon/bulk-delete-posts-by-attachment.php:157
+msgid "Delete all posts that don't have attachments"
+msgstr ""
+
+#: tmp_addon/bulk-delete-posts-by-attachment.php:287
+msgid ""
+"Posts matching the selected attachment setting are scheduled for deletion."
+msgstr ""
+
+#: tmp_addon/bulk-delete-posts-by-attachment.php:292
+msgid "Deleted %d post using the selected attachment condition"
+msgid_plural "Deleted %d posts using the selected attachment condition"
+msgstr[0] ""
+msgstr[1] ""
+
+#: tmp_addon/bulk-delete-posts-by-content.php:118
+msgid "By Content"
+msgstr ""
+
+#: tmp_addon/bulk-delete-posts-by-content.php:135
+msgid "Select the fields to check for"
+msgstr ""
+
+#: tmp_addon/bulk-delete-posts-by-content.php:140
+msgid "Check only Post Content"
+msgstr ""
+
+#: tmp_addon/bulk-delete-posts-by-content.php:145
+msgid "Check only Post Title"
+msgstr ""
+
+#: tmp_addon/bulk-delete-posts-by-content.php:150
+msgid "Check both Post Content and Title"
+msgstr ""
+
+#: tmp_addon/bulk-delete-posts-by-content.php:155
+msgid "Check either Post Content or Title"
+msgstr ""
+
+#: tmp_addon/bulk-delete-posts-by-content.php:160
+msgid "Specify your content"
+msgstr ""
+
+#: tmp_addon/bulk-delete-posts-by-content.php:167
+#: tmp_addon/bulk-delete-posts-by-title.php:126
+msgid "contains"
+msgstr ""
+
+#: tmp_addon/bulk-delete-posts-by-content.php:168
+#: tmp_addon/bulk-delete-posts-by-title.php:127
+msgid "doesn't contains"
+msgstr ""
+
+#: tmp_addon/bulk-delete-posts-by-content.php:169
+#: tmp_addon/bulk-delete-posts-by-title.php:128
+msgid "starts with"
+msgstr ""
+
+#: tmp_addon/bulk-delete-posts-by-content.php:170
+#: tmp_addon/bulk-delete-posts-by-title.php:129
+msgid "ends with"
+msgstr ""
+
+#: tmp_addon/bulk-delete-posts-by-content.php:173
+msgid "at least one of"
+msgstr ""
+
+#: tmp_addon/bulk-delete-posts-by-content.php:174
+msgid "all of"
+msgstr ""
+
+#: tmp_addon/bulk-delete-posts-by-content.php:176
+msgid "Content to check for"
+msgstr ""
+
+#: tmp_addon/bulk-delete-posts-by-content.php:181
+msgid "Separate multiple phrases by comma (,)"
+msgstr ""
+
+#: tmp_addon/bulk-delete-posts-by-content.php:291
+msgid "Posts matching the selected content setting are scheduled for deletion."
+msgstr ""
+
+#: tmp_addon/bulk-delete-posts-by-content.php:295
+msgid "Deleted %d post using the selected content condition"
+msgid_plural "Deleted %d posts using the selected content condition"
+msgstr[0] ""
+msgstr[1] ""
+
+#: tmp_addon/bulk-delete-posts-by-content.php:366
+msgid ""
+"Are you sure you want to delete all the posts that match the selected "
+"content criteria?"
+msgstr ""
+
+#: tmp_addon/bulk-delete-posts-by-content.php:369
+msgid "Please enter the content based on which you want to delete posts"
+msgstr ""
+
+#: tmp_addon/bulk-delete-posts-by-custom-field.php:153
+msgid "Choose your custom field settings"
+msgstr ""
+
+#: tmp_addon/bulk-delete-posts-by-custom-field.php:157
+msgid "Key "
+msgstr ""
+
+#: tmp_addon/bulk-delete-posts-by-custom-field.php:160
+msgid "equal to (string)"
+msgstr ""
+
+#: tmp_addon/bulk-delete-posts-by-custom-field.php:161
+msgid "not equal to (string)"
+msgstr ""
+
+#: tmp_addon/bulk-delete-posts-by-custom-field.php:162
+msgid "equal to (date)"
+msgstr ""
+
+#: tmp_addon/bulk-delete-posts-by-custom-field.php:163
+msgid "not equal to (date)"
+msgstr ""
+
+#: tmp_addon/bulk-delete-posts-by-custom-field.php:164
+msgid "less than (date)"
+msgstr ""
+
+#: tmp_addon/bulk-delete-posts-by-custom-field.php:165
+msgid "greater than (date)"
+msgstr ""
+
+#: tmp_addon/bulk-delete-posts-by-custom-field.php:166
+msgid "less than (number)"
+msgstr ""
+
+#: tmp_addon/bulk-delete-posts-by-custom-field.php:167
+msgid "greater than (number)"
+msgstr ""
+
+#: tmp_addon/bulk-delete-posts-by-custom-field.php:169
+msgid "Value "
+msgstr ""
+
+#: tmp_addon/bulk-delete-posts-by-custom-field.php:176
+msgid "Enter the Date Format "
+msgstr ""
+
+#: tmp_addon/bulk-delete-posts-by-custom-field.php:178
+msgid "Possible Values"
+msgstr ""
+
+#: tmp_addon/bulk-delete-posts-by-custom-field.php:179
+msgid "If you leave date format blank, then \"YYYYMMDD\", will be assumed"
+msgstr ""
+
+#: tmp_addon/bulk-delete-posts-by-custom-field.php:185
+msgid "If you want to check for null values, then leave the value column blank"
+msgstr ""
+
+#: tmp_addon/bulk-delete-posts-by-custom-field.php:305
+msgid ""
+"Posts matching the selected custom field setting are scheduled for deletion."
+msgstr ""
+
+#: tmp_addon/bulk-delete-posts-by-custom-field.php:310
+msgid "Deleted %d post using the selected custom field condition"
+msgid_plural "Deleted %d posts using the selected custom field condition"
+msgstr[0] ""
+msgstr[1] ""
+
+#: tmp_addon/bulk-delete-posts-by-custom-field.php:410
+msgid ""
+"Are you sure you want to delete all the posts that match the entered custom "
+"field condition?"
+msgstr ""
+
+#: tmp_addon/bulk-delete-posts-by-custom-field.php:413
+msgid "Please enter the custom field based on which you want to delete posts"
+msgstr ""
+
+#: tmp_addon/bulk-delete-posts-by-duplicate-title.php:119
+msgid "Select the post type whose duplicate posts you want to delete"
+msgstr ""
+
+#: tmp_addon/bulk-delete-posts-by-duplicate-title.php:137
+msgid "Choose your duplicate title settings"
+msgstr ""
+
+#: tmp_addon/bulk-delete-posts-by-duplicate-title.php:141
+msgid "Delete posts with duplicate title that were "
+msgstr ""
+
+#: tmp_addon/bulk-delete-posts-by-duplicate-title.php:148
+msgid "first"
+msgstr ""
+
+#: tmp_addon/bulk-delete-posts-by-duplicate-title.php:149
+msgid "last"
+msgstr ""
+
+#: tmp_addon/bulk-delete-posts-by-duplicate-title.php:171
+msgid " duplicate titles."
+msgstr ""
+
+#: tmp_addon/bulk-delete-posts-by-duplicate-title.php:232
+msgid "Sorry something went wrong. Kindly try again."
+msgstr ""
+
+#: tmp_addon/bulk-delete-posts-by-duplicate-title.php:248
+msgid ""
+"Posts with duplicate title matching the selected settings are scheduled for "
+"deletion."
+msgstr ""
+
+#: tmp_addon/bulk-delete-posts-by-duplicate-title.php:253
+#: tmp_addon/bulk-delete-posts-by-title.php:250
+msgid "Deleted %d post using the selected title condition"
+msgid_plural "Deleted %d posts using the selected title condition"
+msgstr[0] ""
+msgstr[1] ""
+
+#: tmp_addon/bulk-delete-posts-by-duplicate-title.php:335
+msgid ""
+"Are you sure you want to delete all the posts that have duplicate title?"
+msgstr ""
+
+#: tmp_addon/bulk-delete-posts-by-title.php:116
+msgid "Choose your title settings"
+msgstr ""
+
+#: tmp_addon/bulk-delete-posts-by-title.php:122
+msgid "Title"
+msgstr ""
+
+#: tmp_addon/bulk-delete-posts-by-title.php:246
+msgid "Posts matching the selected title setting are scheduled for deletion."
+msgstr ""
+
+#: tmp_addon/bulk-delete-posts-by-title.php:388
+msgid ""
+"Are you sure you want to delete all the posts that match the entered title?"
+msgstr ""
+
+#: tmp_addon/bulk-delete-posts-by-title.php:391
+msgid "Please enter the title based on which you want to delete posts"
+msgstr ""
+
+#: tmp_addon/bulk-delete-posts-by-user-role.php:87
+msgid "Select the user roles from which you want to delete posts"
+msgstr ""
+
+#: tmp_addon/bulk-delete-posts-by-user-role.php:104
+#: tmp_addon/bulk-delete-posts-by-user.php:148
+msgid "Select the post types from which you want to delete posts"
+msgstr ""
+
+#: tmp_addon/bulk-delete-posts-by-user-role.php:154
+#: tmp_addon/bulk-delete-posts-by-user.php:198
+msgid ""
+"Use this option if there are more than 1000 posts or the script timesout."
+msgstr ""
+
+#: tmp_addon/bulk-delete-posts-by-user-role.php:221
+msgid "Posts matching the selected user roles are scheduled for deletion."
+msgstr ""
+
+#: tmp_addon/bulk-delete-posts-by-user-role.php:225
+msgid "Deleted %d post from selected user roles"
+msgid_plural "Deleted %d posts from selected user roles"
+msgstr[0] ""
+msgstr[1] ""
+
+#: tmp_addon/bulk-delete-posts-by-user-role.php:302
+msgid ""
+"Are you sure you want to delete all the posts that belong to the selected "
+"user role?"
+msgstr ""
+
+#: tmp_addon/bulk-delete-posts-by-user-role.php:305
+msgid "Please select the user role from which you want to delete posts"
+msgstr ""
+
+#: tmp_addon/bulk-delete-posts-by-user.php:109
+msgid "By User"
+msgstr ""
+
+#: tmp_addon/bulk-delete-posts-by-user.php:127
+msgid "Select the user whose posts you want to delete"
+msgstr ""
+
+#: tmp_addon/bulk-delete-posts-by-user.php:264
+msgid "Posts belonging to the selected user are scheduled for deletion."
+msgstr ""
+
+#: tmp_addon/bulk-delete-posts-by-user.php:268
+msgid "Deleted %d post belonging to the selected user"
+msgid_plural "Deleted %d posts belonging to the selected user"
+msgstr[0] ""
+msgstr[1] ""
+
+#: tmp_addon/bulk-delete-posts-by-user.php:316
+msgid ""
+"Are you sure you want to delete all the posts belonging to the selected user?"
+msgstr ""
+
+#: tmp_addon/bulk-delete-scheduler-email.php:91
+msgid "Scheduler Email Settings"
+msgstr ""
+
+#: tmp_addon/bulk-delete-scheduler-email.php:186
+msgid "From Name"
+msgstr ""
+
+#: tmp_addon/bulk-delete-scheduler-email.php:187
+msgid ""
+"The name scheduler emails are said to come from. This should probably be "
+"your site name."
+msgstr ""
+
+#: tmp_addon/bulk-delete-scheduler-email.php:193
+msgid "From Email"
+msgstr ""
+
+#: tmp_addon/bulk-delete-scheduler-email.php:194
+msgid ""
+"Email to send scheduler emails from. This will act as the \"from\" and "
+"\"reply-to\" address."
+msgstr ""
+
+#: tmp_addon/bulk-delete-scheduler-email.php:200
+msgid "To Email"
+msgstr ""
+
+#: tmp_addon/bulk-delete-scheduler-email.php:201
+msgid "Email to which scheduler emails should be sent."
+msgstr ""
+
+#: tmp_addon/bulk-delete-scheduler-email.php:207
+msgid "Before Scheduler Notifications"
+msgstr ""
+
+#: tmp_addon/bulk-delete-scheduler-email.php:208
+msgid "Configure before scheduler notification emails"
+msgstr ""
+
+#: tmp_addon/bulk-delete-scheduler-email.php:213
+msgid "Before Scheduler Subject"
+msgstr ""
+
+#: tmp_addon/bulk-delete-scheduler-email.php:214
+msgid "Enter the subject line for the before scheduler email"
+msgstr ""
+
+#: tmp_addon/bulk-delete-scheduler-email.php:216
+msgid "BulkWP Scheduler is about to run"
+msgstr ""
+
+#: tmp_addon/bulk-delete-scheduler-email.php:220
+msgid "Before Scheduler"
+msgstr ""
+
+#: tmp_addon/bulk-delete-scheduler-email.php:221
+msgid ""
+"Enter the email that is sent before the scheduler runs. HTML is accepted. "
+"Available template tags:"
+msgstr ""
+
+#: tmp_addon/bulk-delete-scheduler-email.php:223
+msgid "The following scheduler is about to run."
+msgstr ""
+
+#: tmp_addon/bulk-delete-scheduler-email.php:227
+msgid "After Scheduler Notifications"
+msgstr ""
+
+#: tmp_addon/bulk-delete-scheduler-email.php:228
+msgid "Configure After scheduler notification emails"
+msgstr ""
+
+#: tmp_addon/bulk-delete-scheduler-email.php:233
+msgid "After Scheduler Subject"
+msgstr ""
+
+#: tmp_addon/bulk-delete-scheduler-email.php:234
+msgid "Enter the subject line for the after scheduler email"
+msgstr ""
+
+#: tmp_addon/bulk-delete-scheduler-email.php:236
+msgid "BulkWP Scheduler just ran"
+msgstr ""
+
+#: tmp_addon/bulk-delete-scheduler-email.php:240
+msgid "After Scheduler"
+msgstr ""
+
+#: tmp_addon/bulk-delete-scheduler-email.php:241
+msgid ""
+"Enter the email that is sent after the scheduler runs. HTML is accepted. "
+"Available template tags:"
+msgstr ""
+
+#: tmp_addon/bulk-delete-scheduler-email.php:243
+msgid "The following scheduler just ran."
+msgstr ""
+
+#: tmp_addon/bulk-delete-scheduler-email.php:243
+msgid "deleted"
+msgstr ""
+
+#: tmp_addon/bulk-delete-scheduler-email.php:261
+msgid "Name of the scheduler"
+msgstr ""
+
+#: tmp_addon/bulk-delete-scheduler-email.php:280
+msgid "Number of items affected"
+msgstr ""
+
+#: tmp_addon/bulk-delete-user-meta.php:123
+msgid "User Meta Value "
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Bulk Delete"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "http://bulkwp.com"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Bulk delete users and posts from selected categories, tags, post types, "
+"custom taxonomies or by post status like drafts, scheduled posts, revisions "
+"etc."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Sudar"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://sudarmuthu.com/"
+msgstr ""

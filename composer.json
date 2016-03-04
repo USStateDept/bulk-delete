@@ -1,0 +1,10 @@
+{
+    "name": "usstatedept/bulk-delete",
+    "description": "Bulk delete users and posts from selected categories, tags, post types, custom taxonomies or by post status like drafts, scheduled posts, revisions etc.",
+    "version": "5.4.2",
+    "minimum-stability": "stable",
+    "type": "wordpress-plugin",
+    "require": {
+        "composer/installers": "v1.0.21"
+    }
+}
